@@ -1,4 +1,4 @@
-# MySql-Cheat-sheet
+# MySql-Cheat-sheet - By [bradtraversy](https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3)
 Some of the most common queries, manipulation and aggregate functions
 
 ## MySQL Locations
